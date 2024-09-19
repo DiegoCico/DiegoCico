@@ -6,6 +6,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoCico&theme=dark)
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
+
+
 
 
 
