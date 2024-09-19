@@ -4,7 +4,8 @@
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=diegocico&theme=material-palenight&hide_border=true&layout=compact&langs_count=10&card_width=333)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoCico&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoCico&theme=dark)
+
 
 
 
