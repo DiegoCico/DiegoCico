@@ -13,8 +13,6 @@
   </tr>
 </table>
 
----
-
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical)
 
 </div>
