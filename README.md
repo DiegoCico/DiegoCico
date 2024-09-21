@@ -1,7 +1,6 @@
 # DiegoCico
 
 <div align="center">
-  <h2 style="font-family: Arial, sans-serif; color: #4CAF50; margin-bottom: 20px;">DiegoCico's GitHub Stats</h2>
   
   <table style="border-collapse: collapse; width: 80%; margin: auto; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
     <tr>
@@ -13,6 +12,5 @@
       </td>
     </tr>
   </table>
-  
-  <p style="font-family: Arial, sans-serif; color: #333; margin-top: 20px;">Check out more of my GitHub activities below!</p>
+
 </div>
