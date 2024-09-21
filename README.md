@@ -1,20 +1,18 @@
 # DiegoCico
 
 <div align="center">
+  <h2 style="font-family: Arial, sans-serif; color: #4CAF50; margin-bottom: 20px;">DiegoCico's GitHub Stats</h2>
   
-<table>
-<tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocico&theme=material-palenight&hide_border=true&layout=compact&langs_count=10&card_width=333" alt="Top Languages" width="400" height="200">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical" alt="Summary Card" width="500" height="300">
-    </td>
-</tr>
-
-
+  <table style="border-collapse: collapse; width: 80%; margin: auto; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocico&theme=material-palenight&hide_border=true&layout=compact&langs_count=10&card_width=333" alt="Top Languages" width="400" height="250" style="border-radius: 10px;">
+      </td>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical" alt="Summary Card" width="500" height="300" style="border-radius: 10px;">
+      </td>
+    </tr>
+  </table>
   
-  </tr>
-</table>
-
+  <p style="font-family: Arial, sans-serif; color: #333; margin-top: 20px;">Check out more of my GitHub activities below!</p>
 </div>
