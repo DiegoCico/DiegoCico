@@ -5,12 +5,13 @@
 <table>
 <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocico&theme=material-palenight&hide_border=true&layout=compact&langs_count=10&card_width=400" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocico&theme=material-palenight&hide_border=true&layout=compact&langs_count=10&card_width=333" alt="Top Languages" width="400" height="200">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical" alt="Summary Card">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical" alt="Summary Card" width="500" height="300">
     </td>
 </tr>
+
 
   
   </tr>
