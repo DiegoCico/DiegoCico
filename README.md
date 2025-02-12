@@ -1,5 +1,7 @@
 # DiegoCico
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocico&label=Profile%20views&color=0e75b6&style=flat" alt="diegocico" /> </p>
+
 <div align="center">
   
   <table style="border-collapse: collapse; width: 80%; margin: auto; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
