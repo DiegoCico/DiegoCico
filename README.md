@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoCico&theme=github-compact&bg_color=0d1117&color=58a6ff&line=00ffcc&point=f2cc60&area=true&hide_border=true"
-       alt="GitHub Commit Activity Graph" width="800" height="400" style="border-radius: 8px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoCico&theme=github-compact&bg_color=0d1117&color=58a6ff&line=00ffcc&point=f2cc60&area=true&hide_border=true&custom_title=Monthly%20Commit%20Activity&monthly=true"
+       alt="GitHub Monthly Commit Activity Graph" width="800" height="400" style="border-radius: 8px;">
 </div>
 
 
