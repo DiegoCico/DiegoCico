@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical" 
-       alt="Summary Card" width="400" height="400" style="border-radius: 5px;">
+       alt="Summary Card" width="500" height="300" style="border-radius: 1px;">
 </div>
 
 ## Languages & Technologies:
