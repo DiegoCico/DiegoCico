@@ -1,32 +1,15 @@
 # DiegoCico
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diegocico&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p>
-
-<h2 align="center">Hello, I'm Diego! 👋</h2>
-<p align="center">
-  Welcome to my GitHub profile. Here you'll find my projects, contributions, and more!
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocico&label=Profile%20views&color=0e75b6&style=flat" alt="diegocico" /> </p>
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=diegocico&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="margin: 10px; border-radius: 10px;">
-</div>
+  
+  <table style="border-collapse: collapse; width: 80%; margin: auto; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+    <tr>
+      <td style="padding: 20px; text-align: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical" alt="Summary Card" width="500" height="300" style="border-radius: 10px;">
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegocico&theme=dracula&hide_border=true" alt="GitHub Streak" style="margin: 10px; border-radius: 10px;">
 </div>
-
-<div align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=diegocico&theme=dracula" alt="Activity Graph" style="margin: 10px; border-radius: 10px; width: 95%;">
-</div>
-
-<div align="center">
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=diegocico&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" style="margin: 10px; border-radius: 10px;">
-</div>
-
-<p align="center"><em>Thanks for stopping by!</em></p>
