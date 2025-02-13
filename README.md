@@ -5,9 +5,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiegoCico&theme=radical"
-       alt="Activity Graph" width="500" height="300" style="border-radius: 1px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoCico&theme=radical" 
+       alt="GitHub Commit Activity Graph" width="800" height="400" style="border-radius: 8px;">
 </div>
+
 
 ## Languages & Technologies:
 <div align="center">
