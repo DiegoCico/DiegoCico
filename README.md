@@ -6,10 +6,10 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=radical" 
-       alt="Summary Card" width="500" height="300" style="border-radius: 10px;">
+       alt="Summary Card" width="400" height="200" style="border-radius: 10px;">
 </div>
 
-## 🔥 Languages & Technologies:
+## Languages & Technologies:
 <div align="center">
   
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -34,7 +34,7 @@
 
 </div>
 
-## 🛠 Tools & Platforms:
+## Tools & Platforms:
 <div align="center">
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
