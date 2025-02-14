@@ -31,6 +31,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=flat&logo=racket&logoColor=white)
 
 </div>
 
@@ -43,7 +45,9 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS_Console-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![DrRacket](https://img.shields.io/badge/-DrRacket-005F99?style=flat&logo=racket&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=flat&logo=microsoft&logoColor=white)
 
 </div>
