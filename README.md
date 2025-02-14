@@ -8,6 +8,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoCico&theme=dracula" 
        alt="Summary Card" width="500" height="300" style="border-radius: 1px;">
 </div>
+
 ## **Languages & Technologies**:
 <div align="center">
 
