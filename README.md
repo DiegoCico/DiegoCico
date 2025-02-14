@@ -45,7 +45,7 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![DrRacket](https://img.shields.io/badge/-DrRacket-005F99?style=flat&logo=racket&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=flat&logo=microsoft&logoColor=white)
