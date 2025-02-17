@@ -53,5 +53,6 @@
 ![DrRacket](https://img.shields.io/badge/-DrRacket-005F99?style=flat&logo=racket&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Pipeline](https://img.shields.io/badge/-Pipeline-000000?style=flat&logo=githubactions&logoColor=white)
 
 </div>
