@@ -6,6 +6,7 @@
 ## **Languages & Technologies**:
 <div align="center">
 
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
